@@ -1,0 +1,6 @@
+{
+  "name": "Qwengram AI",
+  "description": "تطبيق ذكاء اصطناعي احترافي مستوحى من DeepSeek ومزود بنموذج Qwengram-0.8B ومحادثات صوتية وكتابية دون انترنت وعبر السحابة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
